@@ -7,4 +7,9 @@ dff
 lhbljk
 jghgu;
 gyhu
+<<<<<<< HEAD
 gvghj
+=======
+gvghjl
+ljhliuj
+>>>>>>> feature
